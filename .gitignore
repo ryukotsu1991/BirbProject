@@ -1,0 +1,9 @@
+.vsconfig
+Library/*
+Logs/*
+.vs/*
+obj/*
+Packages/*
+Temp/*
+*.meta
+My Games/*
